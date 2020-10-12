@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MusicHelper.iml" filepath="$PROJECT_DIR$/.idea/modules/MusicHelper.iml" group="MusicHelper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MusicHelper-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MusicHelper-app.iml" group="MusicHelper/app" />
       <module fileurl="file://$PROJECT_DIR$/ZlwAudioRecorder.iml" filepath="$PROJECT_DIR$/ZlwAudioRecorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recorderlib/com.github.zhaolewei-recorderlib.iml" filepath="$PROJECT_DIR$/.idea/modules/recorderlib/com.github.zhaolewei-recorderlib.iml" group="MusicHelper/recorderlib" />
       <module fileurl="file://$PROJECT_DIR$/recorderlib/recorderlib.iml" filepath="$PROJECT_DIR$/recorderlib/recorderlib.iml" />
     </modules>
   </component>
